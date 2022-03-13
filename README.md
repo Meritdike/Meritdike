@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and medicine
 - 🌱 I’m currently learning frontend dev languages
 - 💞️ I’m looking to collaborate on medical projects
-- 📫 How to reach me @dike_merit
+- 📫 How to reach me @dike_merit on twitter
 
 <!---
 Meritdike/Meritdike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
